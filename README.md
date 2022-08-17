@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @awb3er :)
-- 🌱 Interested in building businesses, learning frontend engineering and cool math problems :)
-- 💞️ I’m looking to collaborate on lots of cool things :)
+- 👋 Hi, I’m @awbcer :)
+- 🌱 Interested in building businesses, learning some frontend engineering and cool math problems :)
+- 💞️ I’m exploring...
 - 📫 How to reach me ... mail@abhisetia.com :)
 
 <!---
