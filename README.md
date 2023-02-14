@@ -7,3 +7,4 @@
 awb3er/awb3er is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![awb3er's GitHub Stats](https://stats-dev.quine.sh/awb3er/github?theme=dark)](https://dev.quine.sh)
